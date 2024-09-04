@@ -35,5 +35,12 @@ Hii! My name is Ngô Trương Phú.
 ### Operating Systems
 <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
 
+## 💻 Used Programming Languages
+
+<p align="center">
+  <a href="https://github.com/Pauln0503">      
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauln0503&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</a> 
+</p>
 
 
