@@ -12,9 +12,10 @@ Hii! My name is Ngô Trương Phú.
   <img src="https://img.shields.io/badge/K16 (2020~2023) - LTV High school-EADBC6?style=for-the-badge"/>
 </a>
 <br>
-<a href="http://www.aao.hcmut.edu.vn/index.php?route=catalog/nganh&hedaotao_id=9&khoa_id=10">
+<a href="https://cse.hcmut.edu.vn/en">
   <img src="https://img.shields.io/badge/Computer science and engineering (2023~2027) - HCMUT,VNUHCM-EADBC6?style=for-the-badge"/>
 </a>
+
 
 ## 🛠️ Tech Hub:
 
