@@ -13,8 +13,9 @@ Hii! My name is Ngô Trương Phú.
 </a>
 <br>
 <a href="https://cse.hcmut.edu.vn/en">
-  <img src="https://img.shields.io/badge/Computer science and engineering (2023~2027) - HCMUT,VNUHCM-EADBC6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20science%20and%20engineering%20(2023~2027)%20-%20HCMUT,VNUHCM-003366?style=for-the-badge"/>
 </a>
+
 
 ## 💻 Interest
 
