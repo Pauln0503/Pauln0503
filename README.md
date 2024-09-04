@@ -16,6 +16,11 @@ Hii! My name is Ngô Trương Phú.
   <img src="https://img.shields.io/badge/Computer science and engineering (2023~2027) - HCMUT,VNUHCM-EADBC6?style=for-the-badge"/>
 </a>
 
+## 💻 Interest
+
+- Cyber Security
+- Pentesting
+
 
 ## 🛠️ Tech Hub:
 
